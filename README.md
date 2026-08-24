@@ -35,7 +35,7 @@ Each project below is a real, working repository with step-by-step documentation
 - ✅ Supporting 500+ end-users with minimal downtime
 - ✅ Automating routine tasks and documenting processes for operational efficiency
 
-**Current Role:** IT Technician (Software Support) at BMT24
+**Current Role:** Systems Support & AI Implementations Agent at Gijima Deliveries
 **Education:** Final-year Bachelor of Science in Information Technology (BSc IT)
 **Location:** Durban, KwaZulu-Natal, South Africa
 
